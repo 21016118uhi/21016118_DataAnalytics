@@ -1,0 +1,63 @@
+contributing_factor,number_collisions,grouped_contributing_factor
+Unspecified,2327997,Unspecified
+Driver Inattention/Distraction,501203,Driver Inattention/Distraction
+Failure to Yield Right-of-Way,137390,Failure to Yield Right-of-Way
+Following Too Closely,130026,Following Too Closely
+Other Vehicular,98482,Vehicle Failure
+Backing Unsafely,83785,Backing Unsafely
+Passing or Lane Usage Improper,68982,Passing or Lane Usage Improper
+Passing Too Closely,59357,Passing or Lane Usage Improper
+Fatigued/Drowsy,59262,Driver Unwell / Medical
+Turning Improperly,59096,Turning Improperly
+Unsafe Lane Changing,46882,Passing or Lane Usage Improper
+Traffic Control Disregarded,43015,Traffic Control Disregarded
+Driver Inexperience,38546,Driver Inexperience
+Unsafe Speed,33017,Unsafe Speed
+Lost Consciousness,25698,Driver Unwell / Medical
+Pavement Slippery,23995,Environmental Defect / Failure
+Alcohol Involvement,23826,Driver Unwell / Medical
+Reaction to Uninvolved Vehicle,23319,Reaction to Uninvolved Vehicle
+Prescription Medication,18454,Driver Unwell / Medical
+View Obstructed/Limited,16508,Visual Distraction / Obstruction
+Outside Car Distraction,15483,Visual Distraction / Obstruction
+Oversized Vehicle,14737,Oversized Vehicle
+Physical Disability,11573,Physical Disability
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,11482,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion
+Aggressive Driving/Road Rage,11214,Aggressive Driving/Road Rage
+Passenger Distraction,9456,Driver Inattention/Distraction
+Brakes Defective,7269,Vehicle Failure
+Fell Asleep,6163,Driver Unwell / Medical
+Obstruction/Debris,4999,Visual Distraction / Obstruction
+Glare,4549,Visual Distraction / Obstruction
+Failure to Keep Right,3992,Failure to Keep Right
+Other Electronic Device,3010,Driver Inattention/Distraction
+Steering Failure,2948,Vehicle Failure
+Pavement Defective,2618,Environmental Defect / Failure
+Tire Failure/Inadequate,2615,Vehicle Failure
+Illness,2604,Driver Unwell / Medical
+Reaction to Other Uninvolved Vehicle,1714,Reaction to Uninvolved Vehicle
+Illnes,1682,Driver Unwell / Medical
+Animals Action,1616,Animals Action
+Lane Marking Improper/Inadequate,1522,Environmental Defect / Failure
+Traffic Control Device Improper/Non-Working,1351,Environmental Defect / Failure
+Driverless/Runaway Vehicle,1338,Environmental Defect / Failure
+Accelerator Defective,1152,Vehicle Failure
+Drugs (illegal),902,Driver Unwell / Medical
+Cell Phone (hand-Held),573,Driver Inattention/Distraction
+Drugs (Illegal),543,Driver Unwell / Medical
+Cell Phone (hands-free),318,Driver Inattention/Distraction
+Tow Hitch Defective,243,Vehicle Failure
+Other Lighting Defects,241,Visual Distraction / Obstruction
+Tinted Windows,205,Visual Distraction / Obstruction
+Headlights Defective,189,Vehicle Failure
+Using On Board Navigation Device,163,Driver Inattention/Distraction
+Vehicle Vandalism,147,Environmental Defect / Failure
+Eating or Drinking,131,Driver Inattention/Distraction
+80,126,[null]
+Shoulders Defective/Improper,102,Environmental Defect / Failure
+Cell Phone (hand-held),101,Driver Inattention/Distraction
+Windshield Inadequate,86,Vehicle Failure
+Texting,53,Driver Inattention/Distraction
+Listening/Using Headphones,35,Driver Inattention/Distraction
+1,16,[null]
+,0,[null]
